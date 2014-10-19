@@ -29,7 +29,7 @@ local sqrt = math.sqrt
 local type = type
 
 -- Modules --
-local complex = require("number_ops.complex")
+local complex = require("tektite_core.number.complex")
 
 -- Exports --
 local M = {}
